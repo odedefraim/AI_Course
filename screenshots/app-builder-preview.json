@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "כיתת בינה",
+      "hasCanvas": false,
+      "bodyTextLen": 574,
+      "bodyTextHash": "6f62a390aae554209ca0652ee5b4a412f96fb9b28ce5938090322120d97fc5a6",
+      "bodyTextPrefix": "כיתת בינה חידון כיתתי · ח׳–ט׳ לכיתות ח׳–ט׳ חידון אחד. כל הכיתה. ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "כיתת בינה",
+      "hasCanvas": false,
+      "bodyTextLen": 574,
+      "bodyTextHash": "6f62a390aae554209ca0652ee5b4a412f96fb9b28ce5938090322120d97fc5a6",
+      "bodyTextPrefix": "כיתת בינה חידון כיתתי · ח׳–ט׳ לכיתות ח׳–ט׳ חידון אחד. כל הכיתה. ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
